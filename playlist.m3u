@@ -1,7 +1,4 @@
 #EXTM3U x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_CR1.xml.gz?raw=true"
-#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-03/ticavision-costa-rica_0.png?itok=0jefEcaM", Ticavision
-http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
-#EXTVLCOPT:http-referrer=https://bradmax.com/
 #EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica
 https://13697-3.b.cdn12.com/hls/e7d7818084.ulive/dc318b5fc2466059034172e233a861bc/base/index.m3u8
 #EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV)..cr" tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
